@@ -45,10 +45,13 @@ These modules are **optional**, but strongly recommended depending on how you pl
 2. Locate the compendium titled **Skill Trees and Information**.
 3. Drag the desired **Skill Trees** into your **Journals** tab.
 4. Drag **Features / Abilities** into your **Items** tab.
-5. With **Skill Trees by TheRipper93** installed and active, the skill tree module will automatically:
-   - Detect the imported skill trees
+5. With **Skill Trees by TheRipper93** installed and active, the module will automatically:
+   - Detect imported skill trees
    - Establish node connections
    - Enable purchasing and progression
+   - Automatically add most items to the character sheet when a node is purchased
+
+Due to module limitations, some items may need to be added manually. These items are clearly organized and spaced out to make them easy to locate.
 
 If a skill tree appears to be missing connections, see the **Known Issues** section below for steps to resolve the issue.
 
