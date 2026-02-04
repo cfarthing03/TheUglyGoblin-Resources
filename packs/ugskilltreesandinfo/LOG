@@ -1,0 +1,7 @@
+2026/02/04-02:54:27.151 e3c Recovering log #17
+2026/02/04-02:54:27.153 e3c Delete type=0 #17
+2026/02/04-02:54:27.153 e3c Delete type=3 #16
+2026/02/04-02:55:14.618 305c Level-0 table #21: started
+2026/02/04-02:55:14.618 305c Level-0 table #21: 0 bytes OK
+2026/02/04-02:55:14.619 305c Delete type=0 #19
+2026/02/04-02:55:14.619 305c Manual compaction at level-0 from '!folders!6HhttN6m7OPgUx8K' @ 72057594037927935 : 1 .. '!journal.pages!xtgQ0nfhjWq0wBOt.QsKLRd39LrSoASIG' @ 0 : 0; will stop at (end)
