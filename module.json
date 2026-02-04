@@ -1,9 +1,9 @@
 {
   "id": "theuglygoblin-resources",
   "title": "TheUglyGoblin Resources",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "manifest": "https://raw.githubusercontent.com/cfarthing03/TheUglyGoblin-Resources/main/module.json",
-  "download": "https://github.com/cfarthing03/TheUglyGoblin-Resources/releases/download/1.0.1/theuglygoblin-resources.zip",
+  "download": "https://github.com/cfarthing03/TheUglyGoblin-Resources/releases/download/1.0.4/theuglygoblin-resources.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
