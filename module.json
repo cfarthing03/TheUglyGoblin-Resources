@@ -1,16 +1,22 @@
 {
   "id": "theuglygoblin-resources",
   "title": "TheUglyGoblin Resources",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "manifest": "https://raw.githubusercontent.com/cfarthing03/TheUglyGoblin-Resources/main/module.json",
-  "download": "https://github.com/cfarthing03/TheUglyGoblin-Resources/releases/download/1.0.7/theuglygoblin-resources.zip",
+  "download": "https://github.com/cfarthing03/TheUglyGoblin-Resources/releases/download/1.0.9/theuglygoblin-resources.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
   },
   "authors": [
     {
-      "name": "cfarthing03 & TheUglyGoblin"
+      "name": "cfarthing03",
+      "flags": {}
+    },
+    {
+      "name": "The Ugly Goblin",
+      "url": "https://www.youtube.com/@TheUglyGoblin",
+      "flags": {}
     }
   ],
   "packs": [
@@ -56,6 +62,19 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "TheUglyGoblin Resources",
+      "sorting": "a",
+      "color": "#6a8f3a",
+      "packs": [
+        "theuglygoblin-resources.trackers",
+        "theuglygoblin-resources.spells",
+        "theuglygoblin-resources.featuresabilities",
+        "theuglygoblin-resources.ugskilltreesandinfo"
+      ]
     }
   ],
   "description": "A collection of resources, trackers, spells, features, and journals by TheUglyGoblin.",
