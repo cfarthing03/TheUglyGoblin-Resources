@@ -20,7 +20,7 @@ This module is designed to be flexible:
 
 Paste the following URL into  
 **Foundry VTT → Install Module → Manifest URL**
-https://raw.githubusercontent.com/cfarthing03/Ugly-Goblin-Try-2/main/module.json
+https://raw.githubusercontent.com/cfarthing03/TheUglyGoblin-Resources/main/module.json
 
 ---
 
